@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1586123729 source:d:\utn\programacion y laboratorio\tp1\calculadora\libreria.c
+
+1586124398 source:d:\utn\programacion y laboratorio\tp1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1586120112 d:\utn\programacion y laboratorio\tp1\calculadora\libreria.h
+
+1586654976 source:d:\utn\programacion y laboratorio\trabajos practicos\tp1\calculadora\libreria.c
+
+1586126127 source:d:\utn\programacion y laboratorio\trabajos practicos\tp1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1586120112 d:\utn\programacion y laboratorio\trabajos practicos\tp1\calculadora\libreria.h
+
